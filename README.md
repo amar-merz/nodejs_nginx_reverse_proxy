@@ -23,7 +23,7 @@ We would  go through the following steps:
 #Configuratiion of the reverse proxy (nginx):
 
 - Install nginx by running sudo apt-get install nginx
-- Create new nginx conf inside /etc/nginx/sites-enabled --see the nodejsconf file
+- Create new nginx conf inside /etc/nginx/sites-enabled --see the nodejs_nginx_conf file
 - Reload Nginx : systemctl reload nginx
 
 #EOF  
