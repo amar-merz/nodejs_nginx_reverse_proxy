@@ -6,8 +6,7 @@ http.createServer(function(req,res){
 	    res.write(stdout);
 		   res.end();
 	   })
-	   //res.write("Nodejs is working ;)");
-	   //res.end();
+	   
     
    
 }).listen(port);
